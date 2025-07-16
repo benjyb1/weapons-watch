@@ -1,7 +1,7 @@
 # WeaponsWatch - Applied Data Science Project
 
 ![Dashboard](images/3d_globe.jpeg)
-[View Full Report (PDF)](ADS (1).pdf)
+[View Full Report (PDF)](ADS.pdf)
 
 ## Project Description
 
